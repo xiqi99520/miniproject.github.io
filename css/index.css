@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.lojoy-index {
+	max-width: 1080px;
+	margin: auto;
+}
+
+.lojoy-index img {
+	display: block;
+	width: 100%;
+}
+
+.clear {
+	overflow: hidden;
+}
+
+.pull-left {
+	width: 50%;
+	float: left;
+}
+
+.pull-right {
+	width: 50%;
+	float: right;
+}

@@ -35,10 +35,10 @@
 	left: 0;
 	top: 0;
 	background: rgba(0,0,0,.6);
+	z-index: 99;
 }
 
 .shade img {
-	width: 60%;
 	position: absolute;
 	left: 50%;
 	top:50%;
@@ -53,4 +53,12 @@
 	left: 0;
 	top: 0;
 	z-index: 99;
+}
+
+.btnBottom {
+	width: 100%;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	z-index: 9;
 }
